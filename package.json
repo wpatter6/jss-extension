@@ -2,7 +2,6 @@
   "name": "jss-devtools",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "rm -rf dist && cp -r static dist && webpack"
   },
