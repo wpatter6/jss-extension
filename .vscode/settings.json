@@ -1,0 +1,8 @@
+{
+  "workbench.colorTheme": "Peacocks In Space (rainglow)",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true
+  }
+}
